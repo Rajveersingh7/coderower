@@ -7,8 +7,9 @@
 3. Install frontend dependencies: `cd frontend && npm install`
 4. Create `.env` file in backend
 5. Paste the content of `.env.example` to `.env`
-6. Run backend: `npm run dev` (port 8080)
-7. Run frontend: `npm run dev` (port 5173)
+6. Change the MONGODB_URI in `.env` to MongoDB connection string
+7. Run backend: `npm run dev` (port 8080)
+8. Run frontend: `npm run dev` (port 5173)
 
 ## Technologies Used
 
